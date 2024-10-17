@@ -1,3 +1,8 @@
+! Version: 20241017
+! Title: NHKList
+! Last modified: 17 Oct 2024 2:28 UTC
+! Homepage: https://github.com/nhktmdzhg/adblock-lmeow
+! Licence: No copyright, hihi
 animevietsub.*###Tp-Wp > div.Body.Container:nth-child(2) > div.Content > div.Ads.ad-center-header:nth-child(2)
 animevietsub.*###pc-catfixx > div.pc_catfix_adv:nth-child(2)
 animevietsub.*###hide_catfix > a
