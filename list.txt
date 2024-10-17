@@ -1,0 +1,6 @@
+animevietsub.*###Tp-Wp > div.Body.Container:nth-child(2) > div.Content > div.Ads.ad-center-header:nth-child(2)
+animevietsub.*###pc-catfixx > div.pc_catfix_adv:nth-child(2)
+animevietsub.*###hide_catfix > a
+https://lh3.googleusercontent.com/Qi3blUAW9m19lmRs8R_mn1WpxMmMvj4a0Gd0vd7wpewsihT79Y_BT7Z024O_5-zMIU09fAldgunmcc3Sdn7Km0dXIvRl8sCnxwNRxAixMQczjT7XzgQoPfFrKoo=s0$domain=animevietsub.*
+animevietsub.*###close-and-play
+animevietsub.*##.Ads, .ad-center-header
