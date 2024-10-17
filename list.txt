@@ -11,6 +11,7 @@ animevietsub.*###close-and-play
 animevietsub.*##.Ads, .ad-center-header
 ||analyticsengine.s3.amazonaws.com^
 ||analytics.s3.amazonaws.com^
+||advertising-api-eu.amazon.com^
 ||an.facebook.com^
 ||ads-api.twitter.com^
 ||ads-api.tiktok.com^
@@ -23,10 +24,12 @@ animevietsub.*##.Ads, .ad-center-header
 ||log.fc.yahoo.com^
 ||gemini.yahoo.com^
 ||adtech.yahooinc.com^
+||advertising.yahoo.com^
 ||appmetrica.yandex.ru^
 ||adfstat.yandex.ru^
 ||metrika.yandex.ru^
 ||offerwall.yandex.net^
+||advertising.yandex.ru^
 ||auction.unityads.unity3d.com^
 ||webview.unityads.unity3d.com^
 ||config.unityads.unity3d.com^
@@ -37,10 +40,12 @@ animevietsub.*##.Ads, .ad-center-header
 ||adsfs.oppomobile.com^
 ||iadsdk.apple.com^
 ||api-adservices.apple.com^
+||advertising.apple.com^
 ||books-analytics-events.apple.com^
 ||weather-analytics-events.apple.com^
 ||notes-analytics-events.apple.com^
 ||data.mistat.xiaomi.com^
+||widgets.pinterest.com^
 ||data.mistat.india.xiaomi.com^
 ||data.mistat.rus.xiaomi.com^
 ||tracking.rus.miui.com^
